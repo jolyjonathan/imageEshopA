@@ -1,0 +1,71 @@
+{
+    "ecrans": [
+        {
+            "id": 1,
+            "image": "ecran1.jpg",
+            "modele": "Asus ROG Swift OLED PG32UCDM",
+            "description": "Ecran PC 4K - 3840 x 2160 pixels - 0.03 ms (gris à gris) - Format 16/9 - Dalle QD-OLED - 240 Hz - NVIDIA G-SYNC Compatible / FreeSync Premium Pro - HDR400 True Black - Hub USB 3.1 - DisplayPort/HDMI - Noir",
+            "prix": 1499.95
+        },
+        {
+            "id": 2,
+            "image": "ecran2.jpg",
+            "modele": "AOC 23.8 LED - 24G2SPAE",
+            "description": "Ecran PC Full HD 1080p - 1920 x 1080 pixels - 1 ms (MPRT) - 16/9 - IPS - 165 Hz - Adaptive Sync - DisplayPort/HDMI/VGA - Noir/Rouge",
+            "prix": 139.95
+        },
+        {
+            "id": 3,
+            "image": "ecran3.jpg",
+            "modele": "Samsung 32 LED - Odyssey G5 S32CG510EU",
+            "description": "Ecran PC 2.5K - 2560 x 1440 pixels - 1 ms (MRPT) - 16/9 - Dalle VA - 165 Hz - HDR10 - FreeSync Premium - HDMI/DisplayPort - Pivot - Noir",
+            "prix": 269.95
+        }
+    ],
+    "claviers" : [
+        {
+            "id": 1,
+            "image": "clavier1.jpg",
+            "modele": "Corsair Gaming K55 RGB PRO",
+            "description": "Clavier gaming - interrupteurs à membrane - rétroéclairage RGB 5 zones - touches macros et multimédia - AZERTY, Français",
+            "prix": 64.95
+        },
+        {
+            "id": 2,
+            "image": "clavier2.jpg",
+            "modele": "Razer Ornata V3",
+            "description": "Clavier gaming - interrupteurs hybrides à technologie méca-membrane Razer - touches à profil bas - 10 zones d'éclairage Razer Chroma RGB - repose-poignets magnétique - AZERTY, Français",
+            "prix": 89.95
+        },
+        {
+            "id": 3,
+            "image": "clavier3.jpg",
+            "modele": "SteelSeries Apex Pro Mini",
+            "description": "Clavier gaming - format compact TKL - interrupteurs mécaniques ajustables (switches OmniPoint 2,0) - châssis en aluminium - rétroéclairage RGB - AZERTY, Français",
+            "prix": 189.95
+        }
+    ],
+    "souris" : [
+        {
+            "id": 1,
+            "image": "souris1.jpg",
+            "modele": "Logitech G G502 Lightspeed",
+            "description": "Souris sans fil pour gamer - droitier - capteur optique 16000 dpi - 11 boutons programmables - rétro-éclairage RGB Lightsync",
+            "prix": 114.95
+        },
+        {
+            "id": 2,
+            "image": "souris2.jpg",
+            "modele": "Razer Basilisk v3",
+            "description": "Souris filaire pour gamer - droitier - capteur optique 26000 dpi - 11 boutons programmables - rétroéclairage Chroma RGB 16.8 millions de couleurs",
+            "prix": 69.95
+        },
+        {
+            "id": 3,
+            "image": "souris3.jpg",
+            "modele": "Corsair Gaming Harpoon RGB Wireless",
+            "description": "Souris gaming avec ou sans fil - droitier - capteur optique 10 000 dpi - 6 boutons programmables - Bluetooth 4.2/ RF 2.4 GHz - rétroéclairage RGB",
+            "prix": 59.95
+        }
+    ]
+}
