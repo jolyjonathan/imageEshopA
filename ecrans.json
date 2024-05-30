@@ -1,44 +1,23 @@
 [
-
         {
-
             "id": 1,
-
             "image": "ecran1.jpg",
-
             "modele": "Asus ROG Swift OLED PG32UCDM",
-
             "description": "Ecran PC 4K - 3840 x 2160 pixels - 0.03 ms (gris à gris) - Format 16/9 - Dalle QD-OLED - 240 Hz - NVIDIA G-SYNC Compatible / FreeSync Premium Pro - HDR400 True Black - Hub USB 3.1 - DisplayPort/HDMI - Noir",
-
             "prix": 1499.95
-
         },
-
         {
-
             "id": 2,
-
             "image": "ecran2.jpg",
-
             "modele": "AOC 23.8 LED - 24G2SPAE",
-
             "description": "Ecran PC Full HD 1080p - 1920 x 1080 pixels - 1 ms (MPRT) - 16/9 - IPS - 165 Hz - Adaptive Sync - DisplayPort/HDMI/VGA - Noir/Rouge",
-
             "prix": 139.95
-
         },
-
         {
-
             "id": 3,
-
             "image": "ecran3.jpg",
-
             "modele": "Samsung 32 LED - Odyssey G5 S32CG510EU",
-
             "description": "Ecran PC 2.5K - 2560 x 1440 pixels - 1 ms (MRPT) - 16/9 - Dalle VA - 165 Hz - HDR10 - FreeSync Premium - HDMI/DisplayPort - Pivot - Noir",
-
             "prix": 269.95
-
         }
 ]
