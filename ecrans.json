@@ -13,7 +13,7 @@
             "image": "ecran2.jpg",
             "modele": "AOC 23.8 LED - 24G2SPAE",
             "description": "Ecran PC Full HD 1080p - 1920 x 1080 pixels - 1 ms (MPRT) - 16/9 - IPS - 165 Hz - Adaptive Sync - DisplayPort/HDMI/VGA - Noir/Rouge",
-            "prix": 139.95
+            "prix": 139.95,
             "isFavorite": false,
             "rating": 5
         },
@@ -22,7 +22,7 @@
             "image": "ecran3.jpg",
             "modele": "Samsung 32 LED - Odyssey G5 S32CG510EU",
             "description": "Ecran PC 2.5K - 2560 x 1440 pixels - 1 ms (MRPT) - 16/9 - Dalle VA - 165 Hz - HDR10 - FreeSync Premium - HDMI/DisplayPort - Pivot - Noir",
-            "prix": 269.95
+            "prix": 269.95,
             "isFavorite": false,
             "rating": 5
         }
