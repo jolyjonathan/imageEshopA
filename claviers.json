@@ -1,44 +1,23 @@
 [
-
         {
-
             "id": 1,
-
             "image": "clavier1.jpg",
-
             "modele": "Corsair Gaming K55 RGB PRO",
-
             "description": "Clavier gaming - interrupteurs à membrane - rétroéclairage RGB 5 zones - touches macros et multimédia - AZERTY, Français",
-
             "prix": 64.95
-
         },
-
         {
-
             "id": 2,
-
             "image": "clavier2.jpg",
-
             "modele": "Razer Ornata V3",
-
             "description": "Clavier gaming - interrupteurs hybrides à technologie méca-membrane Razer - touches à profil bas - 10 zones d'éclairage Razer Chroma RGB - repose-poignets magnétique - AZERTY, Français",
-
             "prix": 89.95
-
         },
-
         {
-
             "id": 3,
-
             "image": "clavier3.jpg",
-
             "modele": "SteelSeries Apex Pro Mini",
-
             "description": "Clavier gaming - format compact TKL - interrupteurs mécaniques ajustables (switches OmniPoint 2,0) - châssis en aluminium - rétroéclairage RGB - AZERTY, Français",
-
             "prix": 189.95
-
         }
 ]
