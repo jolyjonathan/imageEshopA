@@ -32,7 +32,7 @@
             "modele": "Corsair Gaming K55 RGB PRO",
             "description": "Clavier gaming - interrupteurs à membrane - rétroéclairage RGB 5 zones - touches macros et multimédia - AZERTY, Français",
             "prix": 64.95,
-            "isFavorite": false,
+            "Favorite": false,
             "rating": 5
         },
         {
@@ -41,7 +41,7 @@
             "modele": "Razer Ornata V3",
             "description": "Clavier gaming - interrupteurs hybrides à technologie méca-membrane Razer - touches à profil bas - 10 zones d'éclairage Razer Chroma RGB - repose-poignets magnétique - AZERTY, Français",
             "prix": 89.95,
-            "isFavorite": false,
+            "Favorite": false,
             "rating": 5
         },
         {
@@ -50,7 +50,7 @@
             "modele": "SteelSeries Apex Pro Mini",
             "description": "Clavier gaming - format compact TKL - interrupteurs mécaniques ajustables (switches OmniPoint 2,0) - châssis en aluminium - rétroéclairage RGB - AZERTY, Français",
             "prix": 189.95,
-            "isFavorite": false,
+            "Favorite": false,
             "rating": 5
         },
         {
@@ -59,7 +59,7 @@
             "modele": "Logitech G G502 Lightspeed",
             "description": "Souris sans fil pour gamer - droitier - capteur optique 16000 dpi - 11 boutons programmables - rétro-éclairage RGB Lightsync",
             "prix": 114.95,
-            "isFavorite": false,
+            "Favorite": false,
             "rating": 5
         },
         {
@@ -68,7 +68,7 @@
             "modele": "Razer Basilisk v3",
             "description": "Souris filaire pour gamer - droitier - capteur optique 26000 dpi - 11 boutons programmables - rétroéclairage Chroma RGB 16.8 millions de couleurs",
             "prix": 69.95,
-            "isFavorite": false,
+            "Favorite": false,
             "rating": 5
         },
         {
@@ -77,7 +77,7 @@
             "modele": "Corsair Gaming Harpoon RGB Wireless",
             "description": "Souris gaming avec ou sans fil - droitier - capteur optique 10 000 dpi - 6 boutons programmables - Bluetooth 4.2/ RF 2.4 GHz - rétroéclairage RGB",
             "prix": 59.95,
-            "isFavorite": false,
+            "Favorite": false,
             "rating": 5
         }
 ]
